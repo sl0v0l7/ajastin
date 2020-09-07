@@ -20,4 +20,3 @@ Sekunti on riittävä tarkkuus.
 
 #### 2.1 Käyttötapauskaavio
 ![Käyttötapauskaavio](/images/kayttotapaukset.png)
-Format: ![Alt Text](url)
